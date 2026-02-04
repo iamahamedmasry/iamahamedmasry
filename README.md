@@ -3,7 +3,7 @@
 Cyber Security Student | IT Technician
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 - 🔭 Here's my [portfolio](https://iamahamedmasry.github.io/Portfolio/)                                                 
-- 3rd Year Student  at [<img src="https://sltc.ac.lk/wp-content/uploads/2022/12/sltc_logo_v3-300x100.png" &w=256&q=75" height="24">](https://sltc.ac.lk/)
+- 3rd Year Student  at [<img src="https://sltc.ac.lk/wp-content/uploads/2022/12/sltc_logo_v3-300x100.png &w=256&q=75" height="24">](https://sltc.ac.lk/)
 - Founder [<img src="https://1brtech.com/wp-content/uploads/2025/11/logo-02.jpg" height="24">](https://1brtech.com/) 
 - ⚡ Fun fact: I know Japanese.
 - Social Presence
