@@ -2,7 +2,7 @@
 
 Cyber Security Student | IT Technician
 <img align="right" width="370" height="290" src=https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXRycXgxNWlhc2R6cnZocGxvaW8wcXoyY2ZqbmxwcnZjdDYwbnRveiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif>
-- 🔭 Here's my [portfolio](https://iamahamedmasry.github.io/Portfolio/)                                                 
+- 🔭 Here's My [Portfolio](https://iamahamedmasry.github.io/Portfolio/)                                                 
 - 3rd Year Student  at  <a href="https://sltc.ac.lk/">
     <img src="https://sltc.ac.lk/wp-content/uploads/2022/12/sltc_logo_v3-300x100.png" 
          height="24" 
